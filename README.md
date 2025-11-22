@@ -33,5 +33,5 @@ Deployment Velocity – Cut release cycle time from 5 days to 1 day via automate
 Get in Touch
 Email: [📬](harshbhardwaj754@gmail.com)
 
-LinkedIn: [<img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/6ecae829-fe44-43d9-b054-fd3720fb4781" />
+LinkedIn: [<img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/6ecae829-fe44-43d9-b054-fd3720fb4781" />
 ](https://www.linkedin.com/in/harsh-bhardwaj754/)
