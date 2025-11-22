@@ -1,16 +1,35 @@
-## Hi there 👋
+## Hello Harsh This Side 👋
 
-<!--
-**754bhardwaj/754bhardwaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a CIS Developer with deep expertise in Python, AWS, Azure, Terraform, SQL, and AI/ML. My focus is on designing, developing, and deploying robust backend systems that scale effortlessly while staying within budget.
 
-Here are some ideas to get you started:
+🛠️ Technical Stack
+Cloud	AWS, Azure
+Terraform
+Programming	Python
+Databases	SQL (PostgreSQL, MySQL, Azure SQL)
+AI/ML
+Generative AI
+DevOps
+CI/CD (GitHub Actions, Azure DevOps)
+FinOps	Cost‑optimization, budget monitoring
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Key Responsibilities
+Design & Architecture – Create enterprise‑grade cloud and backend solutions that meet performance, security, and compliance standards.
+Infrastructure Automation – Use Terraform to provision, manage, and version infrastructure across AWS & Azure.
+FinOps – Implement cost‑efficiency practices, track spend, and recommend optimizations.
+Database Management – Build and tune SQL databases for high availability and low latency.
+CI/CD – Build pipelines for rapid, reliable, and auditable deployments.
+Cross‑Functional Collaboration – Work with product, security, and ops teams to align technical solutions with business goals.
+
+🌟 Achievements
+Python Mastery – 95% proficiency score on internal benchmark tests.
+Infrastructure Consistency – Reduced configuration drift by 98% with Terraform.
+Cost Savings – Delivered a 30% reduction in cloud spend through FinOps practices.
+Deployment Velocity – Cut release cycle time from 5 days to 1 day via automated pipelines.
+
+📂 Projects (Sample)
+
+
+📬 Get in Touch
+Email: [youremail@example.com](harshbhardwaj754@gmail.com)
+LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/harsh-bhardwaj754/)
